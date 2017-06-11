@@ -13,19 +13,19 @@ Technologies
 
 Short Manual
 -
-First of all, program get the input from user :\n
+First of all, program get the input from user :
  
 <p align="center">
   <img src="manual/user-input.JPG">
 </p>
 \n
 After that, program creates an empty transition
-table and user fills it:\n
+table and user fills it:
 
 <p align="center">
   <img src="manual/main.JPG">
 </p>
-\n
+
 Just push the "Make The State Machine!" button. now 
 your state machine is ready to find input string in the finite state machin. 
 You can also find out it state machine has loop and if has it, remove loop(s).
