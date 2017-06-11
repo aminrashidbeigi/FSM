@@ -1,5 +1,5 @@
 [FSM](https://github.com/aminrashidbeigi/FSM.git)
-
+=
 FSM is my data structure course final project. 
 You can download persian manual in [manual](manual/) folder.
 
