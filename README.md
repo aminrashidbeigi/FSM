@@ -18,7 +18,6 @@ First of all, program get the input from user :
 <p align="center">
   <img src="manual/user-input.JPG">
 </p>
-\n
 After that, program creates an empty transition
 table and user fills it:
 
